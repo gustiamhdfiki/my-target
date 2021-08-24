@@ -2,4 +2,3 @@ Target :
 - Lulus Matakuliah Pemograman Sistem Bergerak
 - Wisuda tepat waktu
 - Menguasai pemograman
-- Membuat sebuah game
